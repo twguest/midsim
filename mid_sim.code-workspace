@@ -1,11 +1,13 @@
 {
 	"folders": [
 		{
-			"name": "WPG",
-			"path": "../../WPG"
+			"path": "."
 		},
 		{
-			"path": "."
+			"path": "../phenom"
+		},
+		{
+			"path": "../WPG"
 		}
 	],
 	"settings": {}
