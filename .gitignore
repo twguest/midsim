@@ -81,3 +81,4 @@ target/
 
 # Ipython Notebook
 .ipynb_checkpoints
+midsim/data/JF061004_gi_2dmap.txt
